@@ -6,7 +6,6 @@ import MockResponse from '../MockResponse'
 import SearchResults from '../components/SearchResults'
 
 function Search({results}) {
-    console.log(results)
   return <div>
             <Head>
                 <title>Search Results</title>
